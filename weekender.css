@@ -1,0 +1,20 @@
+.black {
+    color:#000;
+    font-weight: 900;
+}
+.green {
+    color:green !important;
+    font-weight: 900;
+}
+
+.glow_yes {
+    background:green;
+    color:#fff;
+    font-weight: 900;
+}
+
+.glow_no {
+    background:red;
+    color:#fff;
+    font-weight: 900;
+}
