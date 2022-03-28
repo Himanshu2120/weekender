@@ -14,7 +14,7 @@
 			<button id='dob_enter' type="submit">Enter</button>
 		</div>
 
-		<div class="kel"></div>
+		<div class="kels"></div>
 		<div id="countdown_work"></div>
 		<div id="countdown_weekend"></div>
 	</body>
