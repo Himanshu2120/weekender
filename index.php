@@ -14,7 +14,7 @@
 			<button id='dob_enter' type="submit">Enter</button>
 		</div>
 
-		<div class="fsdf"></div>
+		<div class="fsdf">This is right div</div>
 		<div class="kels"></div>
 		<div id="countdown_work"></div>
 		<div id="countdown_weekend"></div>
