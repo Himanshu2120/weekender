@@ -14,7 +14,10 @@
 			<button id='dob_enter' type="submit">Enter</button>
 		</div>
 
+<<<<<<< HEAD
 		<div class="fsdf">This is right div</div>
+=======
+>>>>>>> parent of 0435316 (newbrandpush)
 		<div class="kels"></div>
 		<div id="countdown_work"></div>
 		<div id="countdown_weekend"></div>
