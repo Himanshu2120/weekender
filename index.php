@@ -13,7 +13,7 @@
 			<input class='keyup_event black' type="text"  placeholder='YYYY' maxlength="4" id='year'>
 			<button id='dob_enter' type="submit">Enter</button>
 		</div>
-
+		<div id="new_git"></div>
 		<div id="countdown_work"></div>
 		<div id="countdown_weekend"></div>
 	</body>
